@@ -1,0 +1,15 @@
+#outputImage{
+    opacity: 0.8; 
+    width: 100px; 
+    height: auto;
+}
+
+#outputLanguage{
+    text-align: center; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+#outputWord{
+    color :red;
+}
